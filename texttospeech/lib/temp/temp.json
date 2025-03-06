@@ -1,0 +1,38 @@
+  {
+    "English": { 
+      "Steffan": "en-US-SteffanNeural",
+      "Jenny": "en-US-JennyNeural",
+      "Sonia": "en-GB-SoniaNeural",
+      "Thomas": "en-GB-ThomasNeural"
+    },
+    "Amharic": {
+      "Ameha": "am-ET-AmehaNeural",
+      "Mekdes": "am-ET-MekdesNeural"
+    },
+    "Spanish": {
+      "Federico": "es-NI-FedericoNeural",
+      "Valentina": "es-UY-ValentinaNeural",
+      "Alvaro": "es-ES-AlvaroNeural",
+      "Elvira": "es-ES-ElviraNeural"
+    },
+    "Russian": {
+      "Dmitry": "ru-RU-DmitryNeural",
+      "Svetlana": "ru-RU-SvetlanaNeural"
+    },
+    "French": {
+      "Denise": "fr-FR-DeniseNeural",
+      "Henri": "fr-FR-HenriNeural"
+    },
+    "German": {
+      "Ingrid": "de-AT-IngridNeural",
+      "Jonas": "de-AT-JonasNeural",
+      "Amala": "de-DE-AmalaNeural",
+      "Conrad": "de-DE-ConradNeural"
+    },
+    "Arabic": {
+      "Fatima": "ar-AE-FatimaNeural",
+      "Hamdan": "ar-AE-HamdanNeural",
+      "Hamed": "ar-SA-HamedNeural",
+      "Zariyah": "ar-SA-ZariyahNeural"
+    }
+  }
